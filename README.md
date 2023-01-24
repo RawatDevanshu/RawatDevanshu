@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RawatDevanshu
 - 👀 I’m interested in competitive programming,music
-- 🌱 I’m currently learning Python,c++
+- 🌱 I’m currently learning Python,c,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rawatdevanshu22@gmail.com
 
