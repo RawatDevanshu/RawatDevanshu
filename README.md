@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RawatDevanshu
-- 👀 I’m interested in competitive programming,music
-- 🌱 I’m currently learning Python,c,c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in books,philosohpy,physical fitness
+- 🌱 I’m currently learning Python,c,c++,java,dart
+- 💞️ I’m looking to collaborate on app dev(flutter)
 - 📫 How to reach me rawatdevanshu22@gmail.com
 
 <!---
