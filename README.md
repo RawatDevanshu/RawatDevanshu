@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <h2 align="center">Hi 👋 I am Devanshu!</h2> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,5 +28,9 @@
   <a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
 </p>
 
-📫 How to reach me **rawatdevanshu22@gmail.com**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<sub> 📫 How to reach me **rawatdevanshu22@gmail.com** </sub>
 
