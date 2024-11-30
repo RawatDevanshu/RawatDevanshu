@@ -34,3 +34,4 @@
 
 <sub> 📫 How to reach me **rawatdevanshu22@gmail.com** </sub>
 
+[![](https://visitcount.itsvg.in/api?id=RawatDevanshu&label=Profile%20Views&color=7&icon=8&pretty=false)](https://visitcount.itsvg.in)
